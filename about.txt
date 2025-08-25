@@ -1,0 +1,6 @@
+name=Yamini A
+course name=Bsc
+GitHub is a cloud-based platform for version control and collaborative software development, primarily utilizing Git repositories to store, manage, and share code.
+print(name)
+print(course name)
+
